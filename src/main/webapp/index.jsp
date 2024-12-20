@@ -4,6 +4,6 @@
 <p>Here you can buy the clothes of very rich quality</p>
 <p>This is my store</p>
 <a href="about.jsp">About page</a>
-<a href="services.jsp">Services</a>
+<a href="services.jsp">Services page</a>
 </body>
 </html>
